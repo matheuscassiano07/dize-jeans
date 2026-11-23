@@ -1,0 +1,16 @@
+{
+  "name": "DIZE Jeans",
+  "short_name": "DIZE",
+  "description": "Jeans do 36 ao 56 no Vale do Paraíba e Litoral Norte. Varejo, atacado e revenda pelo WhatsApp.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1f2742",
+  "theme_color": "#1f2742",
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
